@@ -1,6 +1,10 @@
 # Laravel Jetstream Inertia + React
 
-A clone-ready version of [Laravel Jetstream](https://jetstream.laravel.com/) ported to Inertia + React.
+**⚠️ This repo is just an example of the post-installation result, click the repo below to see the installer ⚠️**
+
+https://github.com/TravoShare/laravel-jetstream-react-installer
+
+---
 
 Components were remade almost 1-1 of the 1st party ones written in vue.
 
@@ -10,7 +14,7 @@ Changes:
 
 # Usage
 
-See the scaffolding repo here
+See the code for the cli installer here
 
 https://github.com/TravoShare/laravel-jetstream-react-installer
 
